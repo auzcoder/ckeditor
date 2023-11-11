@@ -1,3 +1,2 @@
-# MacOS
-NGROK.COM<br>
-https://youtu.be/O82VkRDF1kc
+# CKEditor
+CKEditor text taxrirlovchi muxarrir
